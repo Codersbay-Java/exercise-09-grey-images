@@ -1,22 +1,12 @@
-# Exercise 00 Template 
-### Deadline 01.01.2022
+# Exercise 09 Color Filter 
 
-Program some cool stuff
+Image manipulation with a provided code base.
 
 ## Task 1
-Some task
+Make yourself familiar with a provided code base.
+Take a look at the `Picture` class and what it already provides.
 
-## Task 2
-More work todo 😥
+An image consists of pixels with x and y coordinates. Those pixels have
+RGB (Red Green Blue) values. In the range from 0 to 255.
 
-<br>
-
-> This might be helpful
-
-~~~java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
-    }
-}
-~~~
+More on RGB [here](https://en.wikipedia.org/wiki/RGB_color_model).
